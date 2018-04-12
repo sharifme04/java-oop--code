@@ -34,7 +34,7 @@ public class MainClass {
         //Third car------------------------------------------------------------------------
         System.out.println("Manufacturer : "+thirdCar.manufacturerName);
         System.out.println("Model Name : "+thirdCar.getModelName());
-        System.out.println("Password Match : "+thirdCar.matchPassword("sk9agm3fih"));
+        System.out.println("Password Match : "+thirdCar.matchPassword("s78668678"));
         System.out.println("Thrid car CC :"+thirdCar.engineCC);
         System.out.println("Amount of Fuel : "+thirdCar.presentAmountOfFuel()+" L");
         
@@ -49,7 +49,7 @@ public class MainClass {
       //SubCar-------------------------------------------------------------------------------
         System.out.println("Manufacturer : "+ourSubCar.manufacturerName);
         System.out.println("Model Name : "+ourSubCar.getModelName());
-        System.out.println("Password Match : "+ourSubCar.matchPassword("sk9agm3fih"));
+        System.out.println("Password Match : "+ourSubCar.matchPassword("shjgjgjhg"));
         System.out.println("Thrid car CC :"+ourSubCar.engineCC);
         System.out.println("Amount of Fuel : "+ourSubCar.presentAmountOfFuel()+" L");
         
