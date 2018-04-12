@@ -20,7 +20,7 @@ public class MainClass {
 		//another car---------------------------------------------------------------------
         System.out.println("Manufacturer : "+ourAnotherCar.manufacturerName);
         System.out.println("Model Name : "+ourAnotherCar.getModelName());
-        System.out.println("Password Match : "+ourAnotherCar.matchPassword("sk9agm3fih"));
+        System.out.println("Password Match : "+ourAnotherCar.matchPassword("7678fih"));
         System.out.println("First car CC :"+ourAnotherCar.engineCC);
         System.out.println("Amount of Fuel : "+ourAnotherCar.presentAmountOfFuel()+" L");
         
